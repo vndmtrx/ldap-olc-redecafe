@@ -41,7 +41,7 @@ firewall-cmd --reload
 
 DOMINIO="dti.local"
 DOMINIO_LDAP="dc=dti,dc=local"
-DC="dtic"
+DC="dti"
 ORGANIZACAO="DTI"
 DESCRICAO="Diretoria de Tecnologia da Informação"
 CIDADE="Cidade"
